@@ -1,7 +1,8 @@
 ## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 
 <p>
-  I'm an <strong>Android Developer</strong>
+  My name is Primiano and I'm an <strong>Android Developer</strong>.<br>
+  I'm passionate about software development, technology in general 
 </p>
 
 <p>
@@ -18,12 +19,12 @@
   <a href="" target=""><img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF&color=000000" alt="IntelliJ IDEA"/></a>
 </p>
 
-<!--
-<p>
-  <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=primdugno"/></a>
-  <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api?username=primdugno&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=fff&text_color=c1c1c1&icon_color=fff"/></a>
-</p>
--->
+<details>
+  <summary><strong>GitHub Stats</strong></summary>
+  <p>
+    <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api?username=primdugno&count_private=true&hide_title=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=fff&text_color=c1c1c1&icon_color=fff"/></a>
+  </p>
+</details>
 
 <hr>
 
