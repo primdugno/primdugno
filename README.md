@@ -1,16 +1,33 @@
 ## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 
 <p>
+  I'm an <strong>Android Developer</strong>
+</p>
+
+<p>
   🌍 Based in Termoli, Italy 🇮🇹<br>
   💼 I currently work at <a href="https://www.aesystech.it" target="blank">AESYS</a> as an Android Developer Consultant<br>
   🌱 I'm currently learning <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
 </p>
 
-<!--<p><img src="https://github-readme-stats.vercel.app/api?username=primdugno&show_icons=true&locale=en" alt="primdugno's stats"/></p>-->
+<p>
+  <a href="" target=""><img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=FFFFFF&color=000000" alt="Android"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&color=000000" alt="Kotlin"/></a>
+  <br>
+  <a href="" target=""><img src="https://img.shields.io/badge/Android Studio-FFFFFF?style=for-the-badge&logo=android-studio&logoColor=FFFFFF&color=000000" alt="Android Studio"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF&color=000000" alt="IntelliJ IDEA"/></a>
+</p>
 
----
+<!--
+<p>
+  <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=primdugno"/></a>
+  <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api?username=primdugno&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=fff&text_color=c1c1c1&icon_color=fff"/></a>
+</p>
+-->
 
-<p>You can also find me on<br><br>
+<hr>
+
+<p>You can also find me on:<br><br>
   <a href="https://www.linkedin.com/in/primdugno" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2" alt="LinkedIn"/>
   </a>
