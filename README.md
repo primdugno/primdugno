@@ -1,8 +1,7 @@
 ## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 
 <p>
-  My name is Primiano and I'm an <strong>Android Developer</strong>.<br>
-  I'm passionate about software development, technology in general 
+  My name is Primiano and I'm an <strong>Android Developer</strong>
 </p>
 
 <p>
