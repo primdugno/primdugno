@@ -11,11 +11,11 @@
 </p>
 
 <p>
-  <a href="" target=""><img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=FFFFFF&color=000000" alt="Android"/></a>
-  <a href="" target=""><img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&color=000000" alt="Kotlin"/></a>
+  <a href="https://www.android.com/" target=""><img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=FFFFFF&color=000000" alt="Android"/></a>
+  <a href="https://kotlinlang.org/" target=""><img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&color=000000" alt="Kotlin"/></a>
   <br>
-  <a href="" target=""><img src="https://img.shields.io/badge/Android Studio-FFFFFF?style=for-the-badge&logo=android-studio&logoColor=FFFFFF&color=000000" alt="Android Studio"/></a>
-  <a href="" target=""><img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF&color=000000" alt="IntelliJ IDEA"/></a>
+  <a href="https://developer.android.com/studio" target=""><img src="https://img.shields.io/badge/Android Studio-FFFFFF?style=for-the-badge&logo=android-studio&logoColor=FFFFFF&color=000000" alt="Android Studio"/></a>
+  <a href="https://www.jetbrains.com/idea" target=""><img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF&color=000000" alt="IntelliJ IDEA"/></a>
 </p>
 
 <details>
