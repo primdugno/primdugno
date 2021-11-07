@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 
 <p>
-  📍 I'm based in Termoli, Italy 🇮🇹<br>
+  🌍 I'm based in Termoli, Italy 🇮🇹<br>
   💼 I'm currently working at <a href="https://www.aesystech.it" target="blank">AESYS</a> as an Android Developer Consultant<br>
   🌱 I'm currently learning <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
 </p>
