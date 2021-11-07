@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
+## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 
 <p>
   🌍 I'm based in Termoli, Italy 🇮🇹<br>
