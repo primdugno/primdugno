@@ -4,6 +4,7 @@
   I'm enthusiastic about technology and I love challenges, especially those allowing me to improve myself<br>
   as a person and as a software developer.
 </p>
+<br>
 <p>
   🌍 Based in Termoli, Italy 🇮🇹<br>
   💼 I currently work at <a href="https://www.aesystech.it" target="blank">AESYS</a><br>
