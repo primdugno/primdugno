@@ -1,11 +1,13 @@
 ## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 <p>
-  My name is Primiano and I'm an <strong>Android Developer</strong>
+  My name is Primiano and I'm an <strong>Android Developer</strong>.<br>
+  I'm enthusiastic about technology and I love challenges, especially those allowing me to improve as a person and as a software developer.
 </p>
 <p>
   🌍 Based in Termoli, Italy 🇮🇹<br>
   💼 I currently work at <a href="https://www.aesystech.it" target="blank">AESYS</a><br>
   🌱 I'm currently learning <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
+  🎯 Becoming a better professional!
 </p>
 <br>
 <p>
