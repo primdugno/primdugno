@@ -1,7 +1,8 @@
 ## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 <p>
   My name is Primiano and I'm an <strong>Android Developer</strong>.<br>
-  I'm enthusiastic about technology and I love challenges, especially those allowing me to improve as a person and as a software developer.
+  I'm enthusiastic about technology and I love challenges, especially those allowing me to improve myself<br>
+  as a person and as a software developer.
 </p>
 <p>
   🌍 Based in Termoli, Italy 🇮🇹<br>
