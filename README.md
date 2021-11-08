@@ -4,7 +4,7 @@
 </p>
 <p>
   🌍 Based in Termoli, Italy 🇮🇹<br>
-  💼 I currently work at <a href="https://www.aesystech.it" target="blank">AESYS</a> as an Android Developer Consultant<br>
+  💼 I currently work at <a href="https://www.aesystech.it" target="blank">AESYS</a><br>
   🌱 I'm currently learning <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
 </p>
 <br>
