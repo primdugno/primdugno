@@ -6,8 +6,7 @@
 </p>
 <br>
 <p>
-  🌍 Based in Termoli, Italy 🇮🇹<br>
-  💼 I currently work at <a href="https://www.aesystech.it" target="blank">AESYS</a><br>
+  🌍 Based in Pescara, Italy 🇮🇹<br>
   🌱 I'm currently learning <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
   🎯 Becoming a better professional!
 </p>
