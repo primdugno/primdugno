@@ -1,13 +1,14 @@
 ## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 <p>
-  My name is Primiano and I'm an <strong>Android Developer</strong>.<br>
-  I'm enthusiastic about technology and I love challenges, especially those allowing me to improve myself<br>
-  as a person and as a software developer.
+  My name is Primiano and I'm an <strong>Android Developer</strong> from Italy,<br>
+  constantly trying to improve and learn new things.<br>
+  Needless to say, I'm crazy about technology, science and "nerdy" things.
 </p>
 <br>
 <p>
   🌍 Based in Pescara, Italy 🇮🇹<br>
-  🌱 I'm currently learning <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
+  🌱 I'm currently playing with <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
+  🗯️ UX/UI Design seems like the next cool thing I'm going to delve into<br>
   🎯 Becoming a better professional!
 </p>
 <br>
@@ -38,4 +39,8 @@
     <img src="https://img.shields.io/badge/primdugno.it-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF&color=FD1D1D" alt="primdugno.it"/
   </a>
   -->
+</p>
+<p> Uh, wait!
+✨ One more thing ✨<br>
+  I've never been able to stop playing MTG entirely thus I keep having a few matches every now and then (mostly via MTG: Arena).
 </p>
