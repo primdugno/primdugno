@@ -1,6 +1,6 @@
 ## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
 <p>
-  My name is Primiano and I'm an <strong>Android Developer</strong> from Italy, constantly trying to improve and learn new things.<br>
+  My name is Primiano and I'm an <strong>Android Software Developer</strong> from Italy, constantly trying to improve and learn new things.<br>
   Needless to say, I'm crazy about technology, science and "nerdy" stuff.
 </p>
 <br>
@@ -22,20 +22,13 @@
 <details>
   <summary><strong>GitHub Stats</strong></summary>
   <p>
-    <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api?username=primdugno&count_private=true&hide_title=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=fff&text_color=c1c1c1&icon_color=fff"/></a>
+    <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api?username=primdugno&count_private=true&hide_title=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=fff&text_color=c1c1c1&icon_color=fff"/></a><br>
+    <a href="https://github.com/primdugno"><img src="https://github-readme-streak-stats.herokuapp.com?user=primdugno&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
   </p>
 </details>
 <hr>
 <p>You can also find me on:<br><br>
-  <a href="https://www.linkedin.com/in/primdugno" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.twitter.com/primdugno" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=1D9BF0" alt="Twitter"/>
-  </a>
-  <!--
-  <a href="https://primdugno.it" target="blank">
-    <img src="https://img.shields.io/badge/primdugno.it-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF&color=FD1D1D" alt="primdugno.it"/
-  </a>
-  -->
+  <a href="https://www.linkedin.com/in/primdugno" target="blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://www.twitter.com/primdugno" target="blank"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=1D9BF0" alt="Twitter"/></a>
+  <!--<a href="https://primdugno.it" target="blank"><img src="https://img.shields.io/badge/primdugno.it-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF&color=FD1D1D" alt="primdugno.it"/</a>-->
 </p>
