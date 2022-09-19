@@ -18,7 +18,7 @@
   <a href="https://developer.android.com/studio" target="blank"><img src="https://img.shields.io/badge/Android Studio-FFFFFF?style=for-the-badge&logo=android-studio&logoColor=FFFFFF&color=073042" alt="Android Studio"/></a>
   <a href="https://www.jetbrains.com/idea" target="blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF&color=000000" alt="IntelliJ IDEA"/></a>
 </p>
-<br>
+<img src="https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif" alt="Android GIF"/><br>
 <details>
   <summary><strong>GitHub Stats</strong></summary>
   <p>
