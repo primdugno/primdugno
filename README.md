@@ -1,34 +1,28 @@
-## Hi! <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px"/>
+# Hi, I'm Primiano <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px" />
+
+Android Software Engineer from Italy, focused on building reliable and maintainable mobile apps.<br>
+Driven by curiosity, pragmatic problem-solving, and a constant desire to learn and improve.
+
 <p>
-  My name is Primiano and I'm an <strong>Android Software Developer</strong> from Italy, constantly trying to improve and learn new things.<br>
-  Needless to say, I'm crazy about technology, science and "nerdy" stuff.
-</p>
-<br>
-<p>
-  🌍 Based in Pescara, Italy 🇮🇹<br>
-  🌱 Currently playing around with <a href="https://developer.android.com/jetpack/compose" target="blank">Jetpack Compose</a><br>
-  🗯️ UX/UI Design seems like the next cool thing I'm going to learn something about<br>
-  🎯 Becoming a better professional!
-</p>
-<br>
-<p>
-  <a href="https://www.android.com/" target="blank"><img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=FFFFFF&color=3DDA84" alt="Android"/></a>
-  <a href="https://kotlinlang.org/" target="blank"><img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&color=843EFF" alt="Kotlin"/></a>
-  <br>
-  <a href="https://developer.android.com/studio" target="blank"><img src="https://img.shields.io/badge/Android Studio-FFFFFF?style=for-the-badge&logo=android-studio&logoColor=FFFFFF&color=073042" alt="Android Studio"/></a>
-  <a href="https://www.jetbrains.com/idea" target="blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF&color=000000" alt="IntelliJ IDEA"/></a>
-</p>
-<img src="https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif" alt="Android GIF"/><br>
-<details>
-  <summary><strong>GitHub Stats</strong></summary>
-  <p>
-    <a href="https://github.com/primdugno"><img src="https://github-readme-stats.vercel.app/api?username=primdugno&count_private=true&hide_title=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=fff&text_color=c1c1c1&icon_color=fff"/></a><br>
-    <a href="https://github.com/primdugno"><img src="https://github-readme-streak-stats.herokuapp.com?user=primdugno&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
-  </p>
-</details>
-<hr>
-<p>You can also find me on:<br><br>
   <a href="https://www.linkedin.com/in/primdugno" target="blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://www.twitter.com/primdugno" target="blank"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=1D9BF0" alt="Twitter"/></a>
-  <!--<a href="https://primdugno.it" target="blank"><img src="https://img.shields.io/badge/primdugno.it-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF&color=FD1D1D" alt="primdugno.it"/</a>-->
+  <a href="https://www.twitter.com/primdugno" target="blank"><img src="https://img.shields.io/badge/X%20/%20Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=1D9BF0" alt="Twitter"/></a>
 </p>
+
+## Tech Stack
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+<!--
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<img src="https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif" alt="Android GIF" />
+-->
+
+<img src="https://komarev.com/ghpvc/?username=primdugno&color=green&style=for-the-badge" align="right" />
