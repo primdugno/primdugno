@@ -1,6 +1,6 @@
 # Hi, I'm Primiano <img src="https://raw.githubusercontent.com/primdugno/primdugno/master/assets/hand-wave.gif" width="30px" />
 
-Android Software Engineer from Italy, focused on building reliable and maintainable mobile apps.<br>
+Android Software Engineer from Italy, focused on building reliable and maintainable software.<br>
 Driven by curiosity, pragmatic problem-solving, and a constant desire to learn and improve.
 
 <p>
